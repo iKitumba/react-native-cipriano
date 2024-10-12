@@ -46,4 +46,5 @@ console.log(nome.length);
 console.log(nome.indexOf("g"));
 console.log(texto.length);
 console.log(texto.indexOf("Tesla"));
+console.log(texto.includes("Tesla"));
 console.log(nome);
